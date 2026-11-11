@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/AeroLabPUT/UAV_measurement_data",
+  "acquisition_reference": "https://doi.org/10.1007/s10846-024-02101-7",
+  "download_base_url": "https://raw.githubusercontent.com/AeroLabPUT/UAV_measurement_data/main/3DR_Solo/Range_data/",
+  "sampling_hz": 500,
+  "acceleration_unit": "g",
+  "class_names": ["Normal", "F_DL1", "F_CL1", "F_BL2", "F_BL2+DL1", "F_BL2+CL1", "F_AL2", "F_AL2+DL1", "F_AL2+CL1"],
+  "recordings": [
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_0000.csv", "rows": 86016, "sha256": "b8ea8d8b8f6708309cafca2fb42b2011a44373619cc4f23511297dae494f1ba8"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_0001.csv", "rows": 86016, "sha256": "bc1ccd1d335438313d44033257b6b5e562fe65f63a31c275f69c1081c9e6abdf"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_0010.csv", "rows": 86016, "sha256": "4483fc56ba68310baaf70a7a798ba9957038bba30f97c4db17e29d66123bdcf1"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_0200.csv", "rows": 86016, "sha256": "b00925199a57ea4662845d51c903192929136864fb677b21fa13b3e5f9b4dc16"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_0201.csv", "rows": 86016, "sha256": "80067ac0a85580bbc6761e2dcd9cbc082532091718bd17e182bf99b6f8cb37c8"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_0210.csv", "rows": 86016, "sha256": "65f14eb67344525ebdb3ca902e2b650279f45fc33c94af8adb797d378f1243a2"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_2000.csv", "rows": 86016, "sha256": "ccbd991fb9341bf95798e62f2a8807f2f6634a7a331ea5e961117714f8df349a"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_2001.csv", "rows": 86016, "sha256": "dbb50f2eed625a13419294c52b548d81b57352908fe845440601f26f17198f84"},
+    {"file": "Solo_ACCEL_16g_GYRO_2kdps_range_2010.csv", "rows": 86016, "sha256": "d7d127b320e0666942433bd9e8522996a4d51ac6b624a0abebb1a2dedfcaf421"}
+  ]
+}

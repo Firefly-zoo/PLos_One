@@ -1,0 +1,6 @@
+numpy==1.26.3
+pandas==2.2.3
+PyWavelets==1.6.0
+scipy==1.10.1
+scikit-learn==1.6.1
+torch==2.5.1
